@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{4E446AFA-090A-45BB-ADC4-48156EDF286E}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="FactoryPatternExercise/Program.cs">
+    <Files>
+      <File FileName="FactoryPatternExercise/Program.cs" Line="7" Column="57" />
+      <File FileName="FactoryPatternExercise/IVehicle.cs" Line="6" Column="29" />
+      <File FileName="FactoryPatternExercise/Motorcyle.cs" Line="11" Column="57" />
+      <File FileName="FactoryPatternExercise/Car.cs" Line="11" Column="35" />
+      <File FileName="FactoryPatternExercise/VehicleFactory.cs" Line="15" Column="35" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FactoryPatternExercise" expanded="True">
+            <Node name="FactoryPatternExercise" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.FactoryPatternExercise PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
